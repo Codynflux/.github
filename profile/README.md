@@ -35,7 +35,7 @@
 | -------------------- | -- | ---------------------------------------- |  
 | 💻 網頁前端工程師      | 1  | 熟悉 Next.js / React / Tailwind CSS            |  
 | 🤖 AI Agent 工程師   | 2  | 具備 LangChain、LangGraph 或相關 LLM 工具經驗      |  
-| 🐚 CI/CD 工程師      | 1  | 熟練撰寫與維護 shell 腳本                  |  
+| 🐚 Shell 工程師      | 1  | 熟練撰寫與維護 shell 腳本                  |  
 
 **加入我們 👉**  
 - [點擊加入 discord 群組](https://discord.gg/hFAqB6QT9v)

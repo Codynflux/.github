@@ -38,8 +38,6 @@
 | 🐚 CI/CD 工程師      | 1  | 熟練撰寫與維護 shell 腳本                  |  
 
 **加入我們 👉**  
-1. discord:
-
-https://discord.gg/xXDD7TZuTg
+- [點擊加入 discord 群組](https://discord.gg/hFAqB6QT9v)
 
 一起打造可自演化、自增強的 AI 代理系統，讓編程更智慧、更高效！  
